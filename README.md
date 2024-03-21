@@ -30,10 +30,13 @@ For example, using GCC:
 
 Run the executable file generated after compilation.
 
-For example:
 
-`$ gcc TicTac.c`
+```
+$ gcc TicTac.c
+```
 
-`$ ./a.out`
+```
+$ ./a.out
+```
 
 
